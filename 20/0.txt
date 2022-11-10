@@ -1,0 +1,10 @@
+REM WEBEX MUTE 442266
+REM OPTION SPACE
+REM DELAY 500
+REM STRING terminal
+REM ENTER
+REM DELAY 500
+REM STRING open /Volumes/1TB_USB/SyncThing/MBP\ Personal/Programming/AppleScript/OpenWebExMeetingInProgress.app/ 
+REM ENTER
+REM DELAY 500
+COMMAND SHIFT M

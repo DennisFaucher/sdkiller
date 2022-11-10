@@ -1,0 +1,2 @@
+REM Fn-> WHITE
+GOTO 40
